@@ -201,7 +201,7 @@ body, html { overflow-x:hidden; }
     width: 43.5%;
     margin-top: 10px;
     cursor: pointer;
-    color: blue;
+    color: #000;
     
 }
 .faqs-row p:hover{
